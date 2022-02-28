@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration made by the Earl of Nevv-Castle, Governour of the town and county of New-Castle: and generall of all His Majesties forces raised in the northern parts of this kingdom, for the defence of the same. For his resolution of marching into Yorkshire. As also, a just vindication of himself from that unjust aspersion laid upon him, for entertaining some popish recusants in his forces.</title>
+            <author>Newcastle, William Cavendish, Duke of, 1592-1676.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90056</idno>
+            <idno type="STC">Wing N880</idno>
+            <idno type="STC">Thomason E83_1</idno>
+            <idno type="EEBO-CITATION">99860589</idno>
+            <idno type="PROQUEST">99860589</idno>
+            <idno type="VID">155632</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90056)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155632)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 14:E83[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration made by the Earl of Nevv-Castle, Governour of the town and county of New-Castle: and generall of all His Majesties forces raised in the northern parts of this kingdom, for the defence of the same. For his resolution of marching into Yorkshire. As also, a just vindication of himself from that unjust aspersion laid upon him, for entertaining some popish recusants in his forces.</title>
+                  <author>Newcastle, William Cavendish, Duke of, 1592-1676.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>First printed at York, and now re-printed at London; By speciall command,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Decemb: 29".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Newcastle, William Cavendish, --  Duke of, 1592-1676.</term>
+               <term>Yorkshire (England) --  History, Military --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155632:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 7 -->
+            <pb facs="tcp:155632:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 7 -->
+            <p>A DECLARATION Made by the Earl of NEVV-CASTLE, Governour of the Town and County of NEW-CASTLE: And Generall of all His Majeſties Forces raiſed in the Northern parts of this Kingdom, for the Defence of the ſame.</p>
+            <p>For his Reſolution of Marching into YORKSHIRE.</p>
+            <p>As alſo, a juſt Vindication of himſelf from that unjuſt aſperſion laid upon him, for enter<g ref="char:EOLhyphen"/>taining ſome Popiſh Recuſants in his Forces.</p>
+            <p>Firſt Printed at YORK, and now re-printed at LONDON; By ſpeciall Command. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:155632:2"/>
+            <!-- PDF PAGE 8 -->
+            <pb n="3" facs="tcp:155632:2"/>
+            <!-- PDF PAGE 8 -->
+            <head>A Declaration made by the Earle of NEVV-CASTLE, Governour of the Town and County of <hi>Newcaſtle;</hi> and Generall of His Ma<g ref="char:EOLhyphen"/>jeſties Forces raiſed in the Northern Parts of this <hi>Kingdom,</hi> &amp;c.</head>
+            <p>I Have now by His Majeſties ſpeciall Command and Commiſſion for ſome months laſt paſt, reſided in the Town of <hi>Newcaſtle.</hi> All which time I have proceeded in purſuance of the points of my Commiſſion (which were none elſe but the preſervation of this Town, the County of <hi>Northumberland,</hi> and the <hi>Biſhoprick</hi> of <hi>Dur<g ref="char:EOLhyphen"/>ham,</hi> and the Liberty of the Trut Proteſtant Religion, of the Laws of this Kingdom eſtabliſhed by Parliaments, the Property of the Subjects, Perſons, and Goods, and ſecuring of this Port) with that integrity and tenderneſſe of His Majeſties Honour, who doth paſſi<g ref="char:EOLhyphen"/>onately affect the ſafety and Liberty of the Subjects, in all the parti<g ref="char:EOLhyphen"/>culars above mentioned. That I have great and juſt occaſion to bleſſe Almighty God for ſo proſpering this his own, and our Sove<g ref="char:EOLhyphen"/>raign His Servants worke, in my weak hands. As I am confident I have not yet miſcarryed in any one particular, wherein by God and His Majeſtie I have been intruſted. For whereas in moſt of the coun<g ref="char:EOLhyphen"/>ties of this Kingdom, there are nothing to be heard but moſt pitti<g ref="char:EOLhyphen"/>full, and yet moſt unpittied complaints of the Subiects, for the hor<g ref="char:EOLhyphen"/>rible violation of their Churches, and indignities offered to the ſer<g ref="char:EOLhyphen"/>vice of God, uniuſt captivating of their Perſons, exhauſting of their purſes by moſt racking exactions, plundering and pillaging of their Houſes and Goods, againſt the Law of God, the knowne Lawes of this Land; and all this exerciſed by a party who pretend nothing but the Religion of God, the Law of the Land, and the Liberty of the Subiect. Yet (bleſſed be God for it) all they who live in theſe parts under my charge, can with one accord teſtifie, that as yet they have not taſted in the leaſt degree any of theſe ſharp outrages, either in their profeſſions, Perſons or Goods, from that party in who<g ref="char:cmbAbbrStroke">̄</g> they had little reaſon to put any truſt, if by my Forces they had not been kept under: Nor yet can any of that lawleſſe party aver, that by a<g ref="char:EOLhyphen"/>ny Forces of mine, or indeed any force at all, they have ſuffered un<g ref="char:EOLhyphen"/>der
+<pb n="4" facs="tcp:155632:3"/>
+               <!-- PDF PAGE 9 -->ſuch wicked vexations, as they of their own ſide in all places where they have had power have uſed towards theſe who have con<g ref="char:EOLhyphen"/>tinued in Loyalty and Obedience to His Maieſty. And farther, that His Maieſties Port and Haven, hath to his great benefit, and the comfort of all his good Subiects, who adhere to him been ſo ſecured as that now it remaineth as entirely at his Maieſties devotion, as e<g ref="char:EOLhyphen"/>ver it did in times of higheſt peace and tranquility.</p>
+            <p>But it hath not pleaſed God, That our Neighbours in Yorkeſhire, and the adiacent Counties ſhould enioy the like calme, which hath moved many of the prime Noblemen and Gentlemen of the Coun<g ref="char:EOLhyphen"/>ty of York, to remonſtrate unto me their ſufferings, which they en<g ref="char:EOLhyphen"/>dure from Sir <hi>John Hotham,</hi> his ſon, and many their ſeditious and outragious Complices, and to deſire my ayd for the redreſſing of them, and repreſſing their tumultuous oppreſſions, before they ſhall ſwell to that height, as it cannot ſtand with the ſafety of the Per<g ref="char:EOLhyphen"/>ſons and Eſtates of His Maieſties good Subiects in Yorkſhire, to make any expreſſions of their Loyalty and Allegiance to His Maie<g ref="char:EOLhyphen"/>ſty, unleſſe by ſome of my Forces they be ſpeedily comforted and relieved.</p>
+            <p>I having ſeriouſly weighed the purport of my Commiſſion, and finding it not only conſiſtent with, and agreeable to the ſame; but knowing well His Maieſties ſacred Intention and conſtant Reſolu<g ref="char:EOLhyphen"/>tion to ſecure the Lives and Liberties of his Subiects by all meanes which he can compaſſe: I have now Reſolved to aſſiſt His Maieſties diſtreſſed Subiects in the County of York with competent Forces; and yet to leave this Town, and the two other Counties under my Charge, ſo ſtrongly guarded, that their former ſecurity ſhall be no wayes diſcontinued or intercepted.</p>
+            <p>And therefore I do by theſe preſents, deſire all his Majeſties Loyall Subjects of the County of Yorke to take theſe perticulars into their ſerious conſideration, and I expect credit to be given to them.</p>
+            <p>Firſt, that I come not into their County by Intruſion, but by In<g ref="char:EOLhyphen"/>vitation; and that from thoſe Noblemen and Gentlemen, whom by long experience, they have known to be their ſoundeſt and ſince<g ref="char:EOLhyphen"/>reſt Patriots, and who have promiſed me in their names a cheerfull reception, their utmoſt aſſiſtance, and abſolute obedience to all my Juſt and lawfull Commandements.</p>
+            <p>Secondly, I do ſolemnely promiſe, That I come free from the leaſt intention of pillaging and plundering any of his Majeſties good and loyall Subjects, or of exacting any thing from them which ſhall be
+<pb n="5" facs="tcp:155632:3"/>
+               <!-- PDF PAGE 9 -->againſt the Priviledge of the Parliament, the known Lawes of the Land, and Liberty of the Subject.</p>
+            <p>And thirdly, That I intend by my Forces to vindicate you from the violent incroachment &amp; oppreſſions made upon you in any of theſe particulars, by thoſe who to their lawleſſe ends abuſe the ſacred name of Parliament.</p>
+            <p>And fourthly, That I ſhall (during the time of my abode amongſt you) do nothing of moment, but by the advice and conſultation with thoſe Noblemen and Gentlemen, who have been Solicitors to me in your behalfe; and when it ſhall pleaſe God to give a happy conſumation to thoſe great buſineſſes for which I intend to come a<g ref="char:EOLhyphen"/>mongſt you, I ſhall retyre my ſelfe and forces out of your County with much more cheerefullaeſſe then I conducted them thither.</p>
+            <p>And now I deſire to give ſatisfaction both to you of Yorkeſhire, and all other true proteſtants of this Kingdome, why I have been neceſſitated to take under my command and conduct diverſe Popiſh Recuſants in theſe Northern pars.</p>
+            <p>Firſt, It was not his Majeſties intention, nor the intentian (for a<g ref="char:EOLhyphen"/>ny thing I know) of any in authority under him, to admit any of them into this ſervice, if the way had not been chaulked out unto His Majeſty, and his Miniſters, by theſe very men; on whoſe Forge this objection was hammered: Let the Muſter Roles of that Army which is named from the Parliament be peruſed, and then it ſhall ap<g ref="char:EOLhyphen"/>yeare plainely, that the mannagers of that Army doth exactly and diſtinctly know, that they now have, and for many moneth have had great numbers under their pay, both Engliſh, French and other Nations, whom at the time of their enrolement (and ever ſince) they did know to have been profeſſed Papiſts: whereas by the contrary, it is notoriouſly known, that before this courſe was taken by the o<g ref="char:EOLhyphen"/>ther party; his Majeſty and his Miniſters did not admit to, nor con<g ref="char:EOLhyphen"/>tinue any Souldiers in pay, who was ſuſpected to be that way in<g ref="char:EOLhyphen"/>clyned, or did refuſe the oathes of Allegiance and Supremacy; not that his Maieſty thought it unlawfull for him ſo to doe, or that he did not hold his Recuſant Subiects, to be as ſtrongly obleiged by the Laws of this Land for the defence of his Perſon, and the Liber<g ref="char:EOLhyphen"/>ty of Parliaments, and Laws of this Kingdome, as any of his Prote<g ref="char:EOLhyphen"/>ſtant Subiects; for if the Kingdome ſtood now under the feare of a Forraigne Invaſion; is it to be conceive, that the Recuſants of this
+<pb n="4" facs="tcp:155632:4"/>
+               <!-- PDF PAGE 10 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:155632:4"/>
+               <!-- PDF PAGE 10 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="6" facs="tcp:155632:5"/>
+               <!-- PDF PAGE 11 -->Land were not by the Lawes of the ſame obliged to adventure their Lives and Fortunes in defence thereof? Sure the great confuſion which is now in this Kingdome is of as fearefull a conſequence as any forraigne Invaſion poſſible can be, and therefore the Recuſants are ſo far from being diſoblieged, as they ſtand deeply obliged for giving their aſſiſtance in this time of extremity, if they ſhall be re<g ref="char:EOLhyphen"/>quired; But His Majeſty was very cautelous and tender in this point, and certainly would not have looked towards it, if the other Party had not firſt aſſumed that liberty to themſelves, from which by the Law of the Land he ſaw himſelfe no way barred.</p>
+            <p>If there be no Barre in Law againſt it, then let us examine theſe pretended grand inconveniences, wherewith (as they alledge) it is attended: Sure the wiſeſt Heathen Emperors that ever were, did ad<g ref="char:EOLhyphen"/>mit into their Armies whole Legions of Chriſtian Souldiers, whoſe fidelity they relied much upon, though the Emperours themſelves blaſphemed that God whom thoſe Chriſtian Souldiers adored, Look upon Chriſtian popiſh Emperours; did <hi>Charles</hi> the fifth, that wiſe &amp; Warlike Emperour refuſe the ſervice of any of the proteſtants of Germany in that Army wherewith he made War upon the Prote<g ref="char:EOLhyphen"/>ſtants? No, but cheriſhed all ſuch of them as he did conceive to ſtand for the Maieſty and Liberty of the Empire: Look upon Prote<g ref="char:EOLhyphen"/>ſtant Kings and Princes; did <hi>Henry</hi> the fourth the late French King, while he was yet a Proteſtant, reiect the aſſiſtance of thoſe many French Papiſts, who ſpent their lives in aſſerting his Crown, and ap<g ref="char:EOLhyphen"/>proaching their Allegiance to him: Or did bleſſed Queen <hi>Eliza<g ref="char:EOLhyphen"/>beth</hi> of moſt pretious memory, upon whoſe ayd and advice, that great King did principally rely; go about to perſwade him to diſ<g ref="char:EOLhyphen"/>miſſe all his Popiſh Subiects out of his Army? and yet it was well known, that Shee was the greateſt Patron and prop of the Prote<g ref="char:EOLhyphen"/>ſtant Religion in the whole world. Do our Neighbours of the Uni<g ref="char:EOLhyphen"/>ted Provinces reiect the auxiliary Regiments under the pay of the French King, becauſe many of them (if not moſt) are Papiſts, ſo long as they are ſecured of their fidelity to them? the point then will not be of their Religion, but whether there they may be truſted in point of fidelity and Allegiance.</p>
+            <p>But they do alledge in that point, they are not to be truſted, ſince they refuſe to take the Oaths of Allegiance and Supremacy; It were to be wiſhed, that thoſe bleſſed times had been perpetuated to us,
+<pb n="7" facs="tcp:155632:5"/>
+               <!-- PDF PAGE 11 -->in which it had continued a good diſtinction, though not between all Papiſts, yet between Jeſuited Papiſts and Proteſtants, the ta<g ref="char:EOLhyphen"/>king or refuſing of thoſe two Oathes; but we have lived to ſee, that theſe two Oathes (to the intollerable ſcandall of the Prote<g ref="char:EOLhyphen"/>ſtant Religion) are indeed taken by ſome who call themſelves Pro<g ref="char:EOLhyphen"/>teſtants, but moſt manifeſtly violated; and refuſed to be taken by ſome Papiſts, and yet the tennour of them kept by thoſe refuſers.</p>
+            <p>Our Saviours queſtion in the Goſpell was, <hi>Whether of the two was the better Servant, He who ſaid he would doe what his Maſher bid him, but did it not? or he who ſaid he would not doe it, but yet did it? this latter, by our Saviours approbation, was the better Servant:</hi> It is eaſy to be applied, hath not His <hi>Majeſty,</hi> and all the World reaſon to thinke that thoſe Recuſants who upon weake, yet ſee<g ref="char:EOLhyphen"/>ming ſtrong grounds unto them, refuſed to take the Oath of Alle<g ref="char:EOLhyphen"/>giance, and yet at this time performe the contents of it; are farre better Subjects (and in this point) farre better Chriſtians, then all thoſe Proteſtants who have taken this Oath, and yet at this time practiſe quite contrary to that which is contained in it, and not on<g ref="char:EOLhyphen"/>ly to what is contained in it, but to what is contained in the laſt Proteſtation, which they themſelves ſo magnified, and in it did ſo expreſſly averre the defence of the Kings Perſon and Dignity; ſo that the tumultuous Petitioners who came riding to the Parliament through the Streets of <hi>London,</hi> with that Proteſtation in their Hatts, ſeemed too honeſt and good Subjects, like men ſtanding up<g ref="char:EOLhyphen"/>on ſeverall Pilloryes with Papers in their Hatts, carrying in them their crime and condemnation for it.</p>
+            <p>And beſides, it is well knowne, That there are other Recuſants in <hi>England</hi> beſides the Popiſh, <hi>viz.</hi> They who will not communicate in our Service and Sacraments as they are eſtabliſhed by the Lawes of this Kingdome; and yet ſome of theſe are admitted to ſit in ei<g ref="char:EOLhyphen"/>ther Houſes of Parliament though contrary to the order of Parlia<g ref="char:EOLhyphen"/>ment, they have not received the Communion. And how many hundreds be in the adverſe Army, of Anabaptiſts, Browniſts, and other Sectaries, who by the Lawes of this Land are reputed farre more dangerous Recuſants, and doe incurre by the ſame Law, farre heavier puniſhments then ordinary Papiſts do; for they being con<g ref="char:EOLhyphen"/>victed are to abjure the Land and Kingdome; whereas Papiſts in<g ref="char:EOLhyphen"/>curre onely perſonall or pecuniary mulcts, if they be not Prieſts or
+<pb n="8" facs="tcp:155632:6"/>
+               <!-- PDF PAGE 12 -->Jeſuites, or harborers of them. If one would truely learne the dam<g ref="char:EOLhyphen"/>nable Doctrines of theſe Recuſant Separatiſts, and foreſee how upon their own grounds and Tenents, when they ſhall have power to put them in practiſe, they will attempt the cutting of throats of all Landlords and Magiſtrates, and will maintaine, That it is againſt the Law of God for any Man to hold an Eſtate by Law or Birth<g ref="char:EOLhyphen"/>right; but onely according to Merit and Worth. Let him reade the the Commentaries of <hi>John Sleidan</hi> a Grave and Wiſe Hiſtorian, who in the life of <hi>Charles</hi> the fifth, hath excellently ſet downe their lamentable Tenents and Tragedies, broached and Acted by them about the beginning of the <hi>Lutheran</hi> Reformation.</p>
+            <p>To conclude, I wiſh from my heart there were Recuſants of no kinde in this Kingdome; I am Reſolved, as I have lived, ſo to dye in the profeſſion of the true Reformed Religion, as it now ſtan<g ref="char:EOLhyphen"/>deth eſtabliſhed by the Lawes of the Land, and as it was profeſſed, and practiſed in the pureſt times of peerleſſe Queene <hi>Elizabeth,</hi> and for theſe few Recuſants under my command, I ſhall uſe all poſ<g ref="char:EOLhyphen"/>ſible care, that they do nothing againſt the Laws of this Kingdome, for I have received them not for their Religion, but for the Allegi<g ref="char:EOLhyphen"/>ance which they profeſſe.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
